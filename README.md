@@ -1,5 +1,9 @@
 <h2> Hi, I'm Josep!</h2>
 
+<p><em>Data Scientist and Developer at <a href="https://www.lisdatacenter.org/">LIS - Luxembourg Income Study</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+</em></p>
+
+
 <!--
 **JosepER/JosepER** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
