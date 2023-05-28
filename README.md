@@ -1,4 +1,4 @@
-### Hi there 👋
+<h2> Hi, I'm Josep!</h2>
 
 <!--
 **JosepER/JosepER** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
