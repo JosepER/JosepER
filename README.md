@@ -16,8 +16,8 @@ class JosepER:
             'database': ['PostgreSQL', 'MySQL', 'SQLite3'],
             'devops': ['Docker', 'Linux', 'GitHub Actions', 'AWS'],
             'frontend': ['HTML', 'CSS', 'JavaScript'],
-            'tools': ['GIT', 'GitHub'],
-            'misc': ['Flask', 'SQLAlchemy', 'ML']
+            'tools': ['GIT', 'GitHub', 'Flask', 'SQLAlchemy'],
+            'misc': ['ML', 'causal inference']
         }
 
     def __str__(self):
