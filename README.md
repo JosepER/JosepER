@@ -16,13 +16,16 @@ class JosepER:
             'database': ['PostgreSQL', 'MySQL', 'SQLite3'],
             'devops': ['Docker', 'Linux', 'GitHub Actions', 'AWS'],
             'frontend': ['HTML', 'CSS', 'JavaScript'],
-            'tools': ['GIT', 'GitHub', 'Flask', 'SQLAlchemy'],
-            'misc': ['ML', 'causal inference']
+            'tools': ['GIT', 'GitHub', 'Flask', 'SQLAlchemy', 'Apache Airflow'],
+            'misc': ['ML', 'causal inference', 'A/B testing']
+        }
+        self.previous_roles = {
+            'NatCen': 'Senior Statistician',
+            'PPMI': 'Researcher'
         }
 
     def __str__(self):
         return f'{self.name} | {self.position}'
-
 
 if __name__ == '__main__':
     me = JosepER()
