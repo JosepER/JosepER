@@ -1,10 +1,11 @@
 <h2> Hi, I'm Josep!👨‍🦲</h2> 
 
-- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="20"> I'm currently working as a Data Scientist and developer at <a href="https://www.lisdatacenter.org/">LIS - Luxembourg Income Study</a>
-- 🔥 I usually write applications in Python, R and Julia.
-- 🌐 I also develop dashboards using Shiny, HTML, CSS and JavaScript.
-- ✉️ You can reach me on jespasareig(add)gmail(dot)com...
-- 🔗 Or connect with me on [![Linkedin Badge](https://img.shields.io/badge/-josepespasa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/josepespasareig/)](https://www.linkedin.com/in/josepespasareig)
+* <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="20"> I'm currently working as a Data Scientist and developer at <a href="https://www.lisdatacenter.org/">LIS - Luxembourg Income Study</a>
+* 🔥 I usually write applications in Python, R and Julia.
+* 🌐 I also develop dashboards using Shiny, HTML, CSS and JavaScript.
+* ✉️ You can reach me on jespasareig(add)gmail(dot)com...
+* 🔗 Or connect with me on:
+    * [![Linkedin Badge](https://img.shields.io/badge/-josepespasa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/josepespasareig/)](https://www.linkedin.com/in/josepespasareig)
 
 ### More about me... 
 ```python
