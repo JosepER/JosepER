@@ -1,6 +1,6 @@
 <h2> Hi, I'm Josep!</h2>
 
-- I'm currently workind as a Data Scientist and developer at <a href="https://www.lisdatacenter.org/">LIS - Luxembourg Income Study</a>
+- I'm currently working as a Data Scientist and developer at <a href="https://www.lisdatacenter.org/">LIS - Luxembourg Income Study</a>
 
 <p><em>Data Scientist and Developer at <a href="https://www.lisdatacenter.org/">LIS - Luxembourg Income Study</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 </em></p>
