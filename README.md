@@ -18,8 +18,8 @@ class JosepER:
             'frontend': ['HTML', 'CSS', 'JavaScript'],
             'tools': ['GIT', 'GitHub', 'Flask', 'SQLAlchemy', 'Apache Airflow'],
             'misc': ['ML', 'causal inference', 'A/B testing']
-        },
-        self.certifications = 'AWS Certified Cloud Pracitioner',
+        }
+        self.certifications = 'AWS Certified Cloud Pracitioner'
         self.previous_roles = {
             'NatCen': 'Senior Statistician',
             'PPMI': 'Researcher'
