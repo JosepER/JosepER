@@ -3,6 +3,8 @@
 <p><em>Data Scientist and Developer at <a href="https://www.lisdatacenter.org/">LIS - Luxembourg Income Study</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 </em></p>
 
+
+### More about me... 
 ```python
 class JosepER:
 
