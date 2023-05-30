@@ -7,7 +7,13 @@
 * 🔗 Or connect with me on:
     * [![Linkedin Badge](https://img.shields.io/badge/-josepespasa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/josepespasareig/)](https://www.linkedin.com/in/josepespasareig) [![Twitter: Josepespasa](https://img.shields.io/twitter/follow/Josepespasa?style=social)](https://twitter.com/Josepespasa) [![GitHub JosepER](https://img.shields.io/github/followers/josper?label=follow&style=social)](https://github.com/JosepER)
 
-
+What have I been up to? (Click below to expand)
+<details>
+<summary>🛠 Packages, publications and other things.</summary>
+   - [**Talk: Julia as a software for Official Statistics and Social Sciences**](https://github.com/JosepER/ntts2023_julia_for_official_statistics)
+   - 
+<br>
+</details>
 ### More about me... 
 ```python
 class JosepER:
