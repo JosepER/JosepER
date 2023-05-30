@@ -10,8 +10,9 @@
 What have I been up to? (Click below to expand)
 <details>
 <summary>🛠 Packages, publications and other things.</summary>
-   - [**Talk: Julia as a software for Official Statistics and Social Sciences**](https://github.com/JosepER/ntts2023_julia_for_official_statistics)
-   - 
+      <br>
+   - [**Talk: Julia as a software for Official Statistics and Social Sciences**](https://github.com/JosepER/ntts2023_julia_for_official_statistics): Presentation at the 2023 NTTS conference in Brussels. 
+
 <br>
 </details>
 ### More about me... 
