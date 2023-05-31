@@ -10,13 +10,15 @@
 What have I been up to? (Click below to expand) 
 <details>
    [aa](https://github.com/JosepER/ntts2023_julia_for_official_statistics)
-<summary>🛠 Packages, publications and other things.</summary>
+<summary>🗄️ Packages, publications and other things.</summary>
       <br>
    
-   - [Talk: Julia as a software for Official Statistics and Social Sciences](https://github.com/JosepER/ntts2023_julia_for_official_statistics) : Presentation at the 2023 NTTS conference in Brussels. 
+   - [Talk: Julia as a software for Official Statistics and Social Sciences](https://github.com/JosepER/ntts2023_julia_for_official_statistics): Presentation at the 2023 NTTS conference in Brussels.
+   - [Inequality.jl](https://github.com/JosepER/Inequality.jl): A Julia package for computing inequality indicators
 
 </details>
 ### More about me... 
+
 ```python
 class JosepER:
 
