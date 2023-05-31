@@ -15,7 +15,7 @@ What have I been up to? (Click below to expand)
    - [Julia as a software for Official Statistics and Social Sciences](https://github.com/JosepER/ntts2023_julia_for_official_statistics): Talk at the 2023 NTTS conference in Brussels.
    - [Inequality.jl](https://github.com/JosepER/Inequality.jl): A Julia package for computing inequality indicators
    - [Bias-variance trade off on the use of person non-response weights in inequality estimates](https://github.com/JosepER/Q2022_use_nonresponse_weights): Paper at the Q2022 - European Conference on Quality in Official Statistics.
-   - [Chatbots to ‘talk’ with public data: the case of the Luxembourg Income Study (LIS)](https://webcast.ec.europa.eu/ntts2023-day-2-gasp-20230308): Coauthor - Presentation at the 2023 NTTS conference in Brussels Starts at 14:47:55.
+   - [Chatbots to ‘talk’ with public data: the case of the Luxembourg Income Study (LIS)](https://webcast.ec.europa.eu/ntts2023-day-2-gasp-20230308): Coauthor - Presentation at the 2023 NTTS conference in Brussels. Starts at 14:47:55.
  
 
 </details>
