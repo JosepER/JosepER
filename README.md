@@ -9,7 +9,6 @@
 
 What have I been up to? (Click below to expand) 
 <details>
-   [aa](https://github.com/JosepER/ntts2023_julia_for_official_statistics)
 <summary>🗄️ Packages, publications and other things.</summary>
       <br>
    
