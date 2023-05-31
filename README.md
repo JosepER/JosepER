@@ -10,7 +10,7 @@
 <h3> What have I been up to? </h3> 
 (Click to expand) 
 <details>
-<summary>🗄️ Packages, publications and other things.</summary>
+<summary>🗄️ Packages, publications and other things</summary>
       <br>
    
    - [Julia as a software for Official Statistics and Social Sciences](https://github.com/JosepER/ntts2023_julia_for_official_statistics): Talk at the 2023 NTTS conference in Brussels.
