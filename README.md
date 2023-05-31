@@ -20,7 +20,7 @@ What have I been up to? (Click below to expand)
 
 </details>
 
-###More about me... 
+<h3> More about me... </h3> 
 
 ```python
 class JosepER:
