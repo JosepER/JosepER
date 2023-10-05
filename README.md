@@ -12,7 +12,8 @@
 <details>
 <summary>🗄️ Packages, publications and other things</summary>
       <br>
-   
+
+   - [{lissyrtools}](https://github.com/LIS-Cross-National-Data-Center/lissyrtools): An R package for computing inequality estimates in the LIS Data Center LISSY environment.
    - [Julia as a software for Official Statistics and Social Sciences](https://github.com/JosepER/ntts2023_julia_for_official_statistics): Talk at the 2023 NTTS conference in Brussels.
    - [Inequality.jl](https://github.com/JosepER/Inequality.jl): A Julia package for computing inequality indicators
    - [Bias-variance trade off on the use of person non-response weights in inequality estimates](https://github.com/JosepER/Q2022_use_nonresponse_weights): Paper at the Q2022 - European Conference on Quality in Official Statistics.
