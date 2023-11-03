@@ -41,7 +41,7 @@ class JosepER:
         }
         self.certifications = 'AWS Certified Cloud Pracitioner'
         self.previous_roles = {
-            'LIS - Luxembourg Income Study': Data Scientist,
+            'LIS - Luxembourg Income Study': 'Data Scientist',
             'NatCen': 'Senior Statistician',
             'PPMI': 'Researcher'
         }
