@@ -29,8 +29,8 @@ class JosepER:
     def __init__(self):
         self.username = 'joseper'
         self.name = 'Josep Espasa Reig'
-        self.position = 'Data Scientist and Developer'
-        self.twitter = '@josepespasa'
+        self.role = 'Data Scientist'
+        self.organization = 'OECD'
         self.code = {
             'languages': ['Python', 'R', 'Julia'],
             'database': ['PostgreSQL', 'MySQL', 'SQLite3'],
@@ -47,7 +47,7 @@ class JosepER:
         }
 
     def __str__(self):
-        return f'{self.name} | {self.position}'
+        return f'{self.name} | {self.role} at {self.organization}'
 
 if __name__ == '__main__':
     me = JosepER()
