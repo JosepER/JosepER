@@ -57,6 +57,11 @@ if __name__ == '__main__':
 
 [![Linkedin Badge](https://img.shields.io/badge/-josepespasa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/josepespasareig/)](https://www.linkedin.com/in/josepespasareig) [![GitHub JosepER](https://img.shields.io/github/followers/josper?label=follow&style=social)](https://github.com/JosepER)
 
+### 📊 GitHub Stats:
+<div align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=JosepER&show_icons=true&theme=default" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JosepER&layout=compact" />
+</div>
 
 <!--
 **JosepER/JosepER** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
