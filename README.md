@@ -3,8 +3,6 @@
 * 🔥 I usually write applications in Python, R and Julia.
 * 🌐 I also develop dashboards using Shiny, HTML, CSS and JavaScript.
 * ✉️ You can reach me on jespasareig(add)gmail(dot)com...
-* 🔗 Or connect with me on:
-    * [![Linkedin Badge](https://img.shields.io/badge/-josepespasa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/josepespasareig/)](https://www.linkedin.com/in/josepespasareig) [![GitHub JosepER](https://img.shields.io/github/followers/josper?label=follow&style=social)](https://github.com/JosepER)
 
 <h3> What have I been up to? </h3> 
 (Click to expand) 
@@ -40,7 +38,7 @@ class JosepER:
             'tools': ['GIT', 'GitHub', 'Flask', 'SQLAlchemy', 'Apache Airflow'],
             'misc': ['ML', 'causal inference', 'A/B testing']
         }
-        self.certifications = 'AWS Certified Cloud Pracitioner'
+        self.certifications = ['Microsoft Certified: Azure Fundamentals', 'AWS Certified Cloud Pracitioner']
         self.previous_roles = {
             'LIS - Luxembourg Income Study': 'Data Scientist',
             'NatCen': 'Senior Statistician',
@@ -54,6 +52,10 @@ if __name__ == '__main__':
     me = JosepER()
     print(me)
 ```
+
+## 📫 Connect with me
+
+[![Linkedin Badge](https://img.shields.io/badge/-josepespasa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/josepespasareig/)](https://www.linkedin.com/in/josepespasareig) [![GitHub JosepER](https://img.shields.io/github/followers/josper?label=follow&style=social)](https://github.com/JosepER)
 
 
 <!--
